@@ -44,8 +44,7 @@ Cloud Blogger Academy offers a complete, practical training program on **Redhat 
 
 ## Course Link
 
-**Enroll here:** https://www.cloudbloggeracademy.com/courses/Microsoft-Azure-Administrator--AZ-104--697c56b04f037e5a20a9febf
-
+**Enroll here:** https://www.cloudbloggeracademy.com/courses/Redhat-Linux-Administrator-6a6a05599545794ded966ea9
 ---
 
 ## Contact
