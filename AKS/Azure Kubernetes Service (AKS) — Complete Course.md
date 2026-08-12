@@ -27,6 +27,7 @@ Cloud Blogger Academy offers a complete, practical training program on **Azure K
 - DevOps Enthusiasts
 - IT Students & Freshers
 - Working Professionals switching to Cloud
+- Telecom Engineer
 
 ---
 
