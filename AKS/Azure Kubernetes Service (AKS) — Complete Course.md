@@ -42,7 +42,7 @@ Cloud Blogger Academy offers a complete, practical training program on **Azure K
 
 ## Course Link
 
-**Enroll here:** https://www.cloudbloggeracademy.com/courses/Azure-Kubernetes-Service-AKS-697cdf48a319b53dbaa20ba
+**Enroll here:** https://www.cloudbloggeracademy.com/courses/Azure-Kubernetes-Service-AKS-697cdf48a319b53dbaa20bab
 
 ---
 
