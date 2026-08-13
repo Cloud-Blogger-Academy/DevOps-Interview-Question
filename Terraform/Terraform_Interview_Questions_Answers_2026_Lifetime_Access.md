@@ -1,4 +1,4 @@
-# Terraform Interview Questions & Answers (2026 Edition)
+# Real Time Terraform Interview Questions & Answers
 
 **Cracking your next DevOps/Cloud interview? These are practical Terraform questions recruiters commonly ask — with clear, interview-ready answers and commands/code where useful.**
 
