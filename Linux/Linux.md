@@ -12,9 +12,9 @@ Cloud Blogger Academy offers a complete, practical training program on **Redhat 
 
 ## Course Highlights
 
-- Complete hands-on training on Azure
+- Complete hands-on training on Azure Kubernetes Service (AKS)
 - Real-world projects and practical labs
-- Red Hat Enterprise Linux (RHEL) Administration
+- File System, Permission Management
 - DevOps and Cloud Engineer job-ready skills
 - **Lifetime access** — learn at your own pace, revisit anytime
 - Certificate of completion
@@ -26,9 +26,8 @@ Cloud Blogger Academy offers a complete, practical training program on **Redhat 
 - Cloud Engineers
 - DevOps Enthusiasts
 - IT Students & Freshers
-- Telecom Engineer
 - Working Professionals switching to Cloud
-
+- Telecom Engineer
 
 ---
 
@@ -45,6 +44,7 @@ Cloud Blogger Academy offers a complete, practical training program on **Redhat 
 ## Course Link
 
 **Enroll here:** https://www.cloudbloggeracademy.com/courses/Redhat-Linux-Administrator-6a6a05599545794ded966ea9
+
 ---
 
 ## Contact
@@ -80,4 +80,3 @@ Cloud Blogger Academy offers a complete, practical training program on **Redhat 
 © 2026 Cloud Blogger Academy | All Rights Reserved
 
 </div>
-
