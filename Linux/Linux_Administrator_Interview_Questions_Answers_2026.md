@@ -1,4 +1,4 @@
-# Linux Administrator Interview Questions & Answers (2026 Edition)
+# Linux Administrator Interview Questions & Answers
 
 Cracking your next Linux Administrator/DevOps interview? These are
 practical Linux interview questions with clear, interview-ready answers
