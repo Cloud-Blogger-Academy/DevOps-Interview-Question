@@ -1,4 +1,4 @@
-# 🚀 Cloud & DevOps Interview Questions & Answers (2026 Edition)
+# Round-1-Confidence-Building - Cloud & DevOps Interview Questions & Answers
 
 Cracking your next **Cloud / DevOps / Azure interview**? These are practical interview questions with clear, real-world answers you can actually explain in an interview.
 
@@ -13,7 +13,7 @@ Cracking your next **Cloud / DevOps / Azure interview**? These are practical int
 ## 1. Introduce yourself / Tell me about yourself.
 **Answer:**
 
-“Hi, I’m Gaurav. I have around 17 years of experience in cloud and infrastructure technologies, with strong hands-on experience in Azure, DevOps, Kubernetes, Terraform, Docker, CI/CD, monitoring, and automation.
+“Hi, I’m Ankul Sharma. I have around 11+ years of experience in cloud and infrastructure technologies, with strong hands-on experience in Azure, DevOps, Kubernetes, Terraform, Docker, CI/CD, monitoring, and automation.
 
 Currently, I work in a technical/customer-facing role where I am responsible for cloud and DevOps architecture, troubleshooting complex technical issues, customer interactions, automation, and guiding teams.
 
@@ -1016,21 +1016,7 @@ Currently, my official notice period is 90/60/45/30 days. However, I am open to 
 
 # 🎓 Cloud Blogger Academy
 
-## Build Skills. Crack Interviews. Grow Your Career.
 
-Learn practical, industry-focused skills in:
-
-- ☁️ Cloud Computing
-- 🚀 DevOps
-- 🐳 Docker
-- ☸️ Kubernetes / AKS
-- 🏗️ Terraform / Infrastructure as Code
-- 🔄 CI/CD
-- 📊 Monitoring & Observability
-- 🤖 AI/ML & Generative AI
-- 🐧 Linux
-- 🔐 Cloud Security
-- ♻️ Backup & Disaster Recovery
 
 ### 🔥 Explore the Complete Course Portfolio
 
