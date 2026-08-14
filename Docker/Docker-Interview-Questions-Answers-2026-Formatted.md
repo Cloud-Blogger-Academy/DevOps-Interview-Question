@@ -1,4 +1,4 @@
-# Docker Interview Questions & Answers --- 2026 Edition
+# Real Time Docker Interview Questions & Answers 
 
 Cracking your next DevOps/Cloud interview? These Docker interview
 questions cover Docker fundamentals, images, Dockerfile, containers,
